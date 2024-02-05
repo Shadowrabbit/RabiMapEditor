@@ -2,7 +2,7 @@
   "name": "com.rabi.map",
   "displayName": "RabiMapEditor",
   "version": "1.0.0",
-  "unity": "2022.3.14f1c1",
+  "unity": "2022.3",
   "description": "This is a simple package for 2D map edit",
   "keywords": [
     "Map",
